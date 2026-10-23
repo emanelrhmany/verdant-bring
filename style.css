@@ -865,18 +865,18 @@ footer small {
   .wrap {
     width: calc(100% - 28px);
     margin-top: -16px;
-}
+
   }
   h1 {
     font-size: 52px;
   }
-  .hero-art > img {
+  .hero-art  img {
     height: 320px;
   }
   .product-info {
     flex-direction: column;
   }
-  .product-info > strong {
+  .product-info  strong {
     align-self: flex-start;
   }
   .bestsellers .wrap {
